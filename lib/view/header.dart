@@ -67,7 +67,7 @@ class _HeaderState extends State<Header> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        "Welcome, Rensith",
+                        "Welcome, Rensith Udara",
                         style: Theme.of(context).textTheme.bodyMedium!.copyWith(
                             fontSize: 20.sp,
                             fontWeight: FontWeight.bold,
