@@ -51,7 +51,7 @@ class SuccessScreen extends StatelessWidget {
                 repeat: false,
               ),
               Text(
-                "Transfer Successful!",
+                "Transfer Successful",
                 style: Theme.of(context).textTheme.headlineMedium!.copyWith(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
